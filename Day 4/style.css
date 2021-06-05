@@ -2,13 +2,13 @@
 
 @-webkit-keyframes motion {
   100% {
-    transform: rotateZ(360deg);
+    transform: rotateZ(540deg);
   }
 }
 
 @keyframes motion {
   100% {
-    transform: rotateZ(360deg);
+    transform: rotateZ(540deg);
   }
 }
 
@@ -92,7 +92,7 @@
   height: 100px;
   background-color: rgb(106, 55, 173);
   transform-origin: 0 0;
-  /* transform: rotate(180deg); */
+  transform: rotate(180deg);
 
   animation: motion 43200s infinite steps(60);
 }
@@ -106,7 +106,7 @@
   height: 100px;
   background-color: rgb(189, 43, 43);
   transform-origin: 0 0;
-  /* transform: rotate(180deg); */
+  transform: rotate(180deg);
 
   animation: motion 3600s infinite steps(60);
 }
@@ -120,7 +120,7 @@
   height: 100px;
   background-color: rgb(50, 204, 63);
   transform-origin: 0 0;
-  /* transform: rotate(180deg); */
+  transform: rotate(180deg);
 
   animation: motion 60s infinite steps(60);
 }
