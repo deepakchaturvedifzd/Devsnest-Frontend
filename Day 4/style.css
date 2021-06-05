@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap");
+
+@-webkit-keyframes motion {
+  100% {
+    transform: rotateZ(360deg);
+  }
+}
+
+@keyframes motion {
+  100% {
+    transform: rotateZ(360deg);
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #81f1e3;
+}
+.container {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 50%;
+  background: #a0f7fd;
+  box-shadow: 14px -14px 100px #7dc1c5, -14px 14px 100px #c3ffff;
+  /* border: 2px solid gray; */
+}
+
+.container .twelve {
+  background-color: #a0f7fd;
+  font-size: 40px;
+  display: inline;
+  position: relative;
+  top: 5px;
+  left: 225px;
+  font-family: "Merriweather", serif;
+  font-weight: 1000;
+}
+
+.container .six {
+  background-color: #a0f7fd;
+  font-size: 40px;
+  display: inline;
+  position: relative;
+  top: 445px;
+  left: 195px;
+  font-family: "Merriweather", serif;
+  font-weight: 1000;
+}
+
+.container .three {
+  background-color: #a0f7fd;
+  font-size: 40px;
+  display: inline;
+  position: relative;
+  top: 220px;
+  left: 340px;
+  font-family: "Merriweather", serif;
+  font-weight: 1000;
+}
+
+.container .nine {
+  background-color: #a0f7fd;
+  font-size: 40px;
+  display: inline;
+  position: relative;
+  top: 220px;
+  right: 70px;
+  font-family: "Merriweather", serif;
+  font-weight: 1000;
+}
+.container .node {
+  background-color: black;
+  width: 18px;
+  height: 18px;
+  border-radius: 100%;
+  margin: auto;
+  position: relative;
+  top: 190px;
+  left: 5px;
+  z-index: 1;
+}
+.container .hour-hand {
+  margin: auto;
+  position: relative;
+  top: 181px;
+  left: 5px;
+
+  width: 5px;
+  height: 100px;
+  background-color: rgb(106, 55, 173);
+  transform-origin: 0 0;
+  /* transform: rotate(180deg); */
+
+  animation: motion 43200s infinite steps(60);
+}
+.container .minute-hand {
+  margin: auto;
+  position: relative;
+  top: 81px;
+  left: 5px;
+
+  width: 5px;
+  height: 100px;
+  background-color: rgb(189, 43, 43);
+  transform-origin: 0 0;
+  /* transform: rotate(180deg); */
+
+  animation: motion 3600s infinite steps(60);
+}
+.container .seconds-hand {
+  margin: auto;
+  position: relative;
+  top: -19px;
+  left: 5px;
+
+  width: 5px;
+  height: 100px;
+  background-color: rgb(50, 204, 63);
+  transform-origin: 0 0;
+  /* transform: rotate(180deg); */
+
+  animation: motion 60s infinite steps(60);
+}
