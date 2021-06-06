@@ -5,7 +5,6 @@
     transform: rotateZ(540deg);
   }
 }
-
 @keyframes motion {
   100% {
     transform: rotateZ(540deg);
@@ -15,21 +14,24 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: #81f1e3;
 }
+body {
+  background: url(./WallpaperDog-11027724.png);
+}
+
 .container {
   width: 500px;
   height: 500px;
   margin: auto;
   margin-top: 100px;
   border-radius: 50%;
-  background: #a0f7fd;
-  box-shadow: 14px -14px 100px #7dc1c5, -14px 14px 100px #c3ffff;
+  background: #ffffff;
+  box-shadow: 14px -14px 50px #818181, -14px 14px 100px #9c9c9c;
   /* border: 2px solid gray; */
 }
 
 .container .twelve {
-  background-color: #a0f7fd;
+  background-color: #ffffff;
   font-size: 40px;
   display: inline;
   position: relative;
@@ -40,7 +42,7 @@
 }
 
 .container .six {
-  background-color: #a0f7fd;
+  background-color: #ffffff;
   font-size: 40px;
   display: inline;
   position: relative;
@@ -51,7 +53,7 @@
 }
 
 .container .three {
-  background-color: #a0f7fd;
+  background-color: #ffffff;
   font-size: 40px;
   display: inline;
   position: relative;
@@ -62,7 +64,7 @@
 }
 
 .container .nine {
-  background-color: #a0f7fd;
+  background-color: #ffffff;
   font-size: 40px;
   display: inline;
   position: relative;
@@ -79,7 +81,7 @@
   margin: auto;
   position: relative;
   top: 190px;
-  left: 5px;
+  left: 2px;
   z-index: 1;
 }
 .container .hour-hand {
