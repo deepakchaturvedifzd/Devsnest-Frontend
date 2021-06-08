@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  width: 90vw;
+  margin: 30px auto;
+  /* border: 2px solid green; */
+}
+
+.container .calc-container {
+  height: 500px;
+  width: 400px;
+  /* border: 2px solid yellow; */
+  border-radius: 12px;
+  background: #84e6ff91;
+  box-shadow: 25px 25px 50px #d9d9d9, -25px -25px 50px #ffffff;
+}
+
+.container .calc-container .input-container {
+  display: flex;
+  padding: 25px 55px;
+  justify-content: space-around;
+}
+
+.container .calc-container .input-container .input1,
+.container .calc-container .input-container .input2 {
+  /* border: 2px solid yellowgreen; */
+  width: 40%;
+}
+
+label {
+  font-size: 18px;
+  color: rgb(79, 109, 206);
+}
+
+input {
+  width: 100px;
+  height: 35px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.container .calc-container .output {
+  margin: 0px 100px;
+  width: 50%;
+  height: 50%;
+  /* border: 2px solid red; */
+  border-radius: 55px;
+  background: #ffffff;
+  box-shadow: 3px 3px 9px #a1a1a1, -3px -3px 9px #ffffff;
+}
+
+.container .calc-container .output .title {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 25px;
+  color: rgb(117, 182, 219);
+}
+
+.container .calc-container .output .val {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 38px;
+  border: 4px solid rgba(70, 226, 231, 0.336);
+  border-radius: 8px;
+  width: 60%;
+  height: 60%;
+}
+
+.container .calc-container .output .val .txt {
+  margin-top: -20px;
+  overflow-x: auto;
+  font-size: 22px;
+  color: #367de7ef;
+}
+
+.container .calc-container .btn-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* border: 2px solid brown; */
+  margin: 20px auto;
+  height: 20%;
+}
+
+.container .calc-container .btn-container .btn1,
+.container .calc-container .btn-container .btn2,
+.container .calc-container .btn-container .btn3,
+.container .calc-container .btn-container .btn4 {
+  /* border: 2px solid green; */
+  width: 70px;
+  height: 50px;
+  text-align: center;
+}
+button {
+  width: 100%;
+  height: 100%;
+  outline: none;
+  border-radius: 3px;
+  border-color: rgb(58, 163, 224);
+  color: white;
+  background-color: rgb(55, 177, 214);
+  font-size: 18px;
+}
+button:hover {
+  cursor: pointer;
+  background-color: rgb(148, 228, 248);
+}
