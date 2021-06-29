@@ -1,5 +1,7 @@
+// THIS WILL SEND RANDOM MEMES TO YOUR DISCORD SERVER
+
 const btn= document.querySelector("button");
-const myWebhookURL="https://discord.com/api/webhooks/858448961413054497/GNxOWMcsyRf1sSd8UjBGP-gZrn0U4j-erTLd-djgtUyMumwjEyOMy47a2oKp6zwSRqbC";
+const myWebhookURL=""; // use your own URL here
 const myMemeURL="https://meme-api.herokuapp.com/gimme";
 
 btn.addEventListener('click',async()=>{
