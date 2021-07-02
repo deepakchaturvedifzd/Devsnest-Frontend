@@ -38,6 +38,7 @@ input.addEventListener('keyup',(event)=>{
 });
 
 elements.addEventListener('click',(e)=>{
+    console.log(e.target);
     if(e.target.tagName=="LI")
     {
         
