@@ -40,6 +40,7 @@
 <li> Day 15 : Intro to React (Hello World) : <a href="https://deepakchaturvedifzd.github.io/Devsnest-Frontend/Day15/index.html">PAGE LINK</a></li>
 <li> Day 16 : <ul><li>Meme Card : <a href="https://thedeepakchaturvedi-react-meme-card.netlify.app/">PAGE LINK</a></li><li>Chess Board : <a href="https://thedeepakchaturvedi-react-chess-app.netlify.app/">PAGE LINK</a></li></ul></li>
 <li> Day 17 : Food Calories Card (using props) : <a href="https://thedeepakchaturvedi-props-tha17.netlify.app/">PAGE LINK</a></li>
+<li> Day 18 : Chess Board 2 ♟️ (using conditional props) : <a href="https://thedeepakchaturvedi-chessboard-2.netlify.app/">PAGE LINK</a></li>
 </ul>
 
 ---
