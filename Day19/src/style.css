@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  height: 50%;
+  width: 90%;
+  /* border: 2px solid black;
+  background-color: aquamarine; */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btn {
+  border: 1px solid black;
+  width: 20%;
+  height: 20%;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.btn:hover {
+  transform: scale(1.1);
+}
