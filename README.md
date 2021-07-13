@@ -43,6 +43,7 @@
 <li> Day 18 : Chess Board 2 ♟️ (using conditional props) : <a href="https://thedeepakchaturvedi-chessboard-2.netlify.app/">PAGE LINK</a></li>
 <li> Day 19 : Button Counter (useState) : <a href="https://thedeepakchaturvedi-tha19-usestate.netlify.app/">PAGE LINK</a></li>
 <li> Day 20 : Food Card App (delete function) : <a href="https://thedeepakchaturvedi-tha20.netlify.app/">PAGE LINK</a></li>
+<li> Day 21 : Food Card App (add + delete + edit function) : <a href="https://thedeepakchaturvedi-tha21.netlify.app/">PAGE LINK</a></li>
 </ul>
 
 ---
