@@ -46,6 +46,7 @@
 <li> Day 21 : Food Card App (add + delete + edit function) : <a href="https://thedeepakchaturvedi-tha21.netlify.app/">PAGE LINK</a></li>
 <li> Day 22 :Meme Generator App : <a href="https://github.com/deepakchaturvedifzd/Meme-Generator-App">REPO LINK</a> : <a href="https://thedeepakchaturvedi-meme-creator.netlify.app/">PAGE LINK</a></li>
 <li> Day 23 : Study Custom Hooks and React Routing</li>
+<li>Day 24 : Profile Dashboard (States[Loading and Login] and React Router) : <a href="https://thedeepakchaturvedi-tha24.netlify.app/">PAGE LINK</a></li>
 </ul>
 
 ---
