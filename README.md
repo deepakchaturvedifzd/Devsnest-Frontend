@@ -21,7 +21,7 @@
 
 <ul>
 <li>Day 6 : JS Programming Questions [PDF in Day6 folder]</li>
-<li>Day 7 & 8 : Solving more questions in JS</li>
+<li>Day 7 && 8 : Solving more questions in JS</li>
 <li>Day 9 : Seat Booking page : <a href="https://deepakchaturvedifzd.github.io/Devsnest-Frontend/Day%209/index.html">PAGE LINK</a></li> 
 <li>Day 10 : Memory Card Game : <a href="https://github.com/deepakchaturvedifzd/Memory-Game-JS">REPO LINK </a> : <a href="https://deepakchaturvedifzd.github.io/Memory-Game-JS/"> PAGE LINK </a> </li>
 <li>Day 11 : Harry Potter Quizzinga : <a href="https://deepakchaturvedifzd.github.io/Devsnest-Frontend/Day%2011/index.html">PAGE LINK</a></li>
