@@ -25,7 +25,7 @@
 <li>Day 9 : Seat Booking page : <a href="https://thedeepakchaturvedi.github.io/Devsnest-Frontend/Day%209/index.html">PAGE LINK</a></li>
 <li>Day 10 : Memory Card Game : <a href="https://github.com/thedeepakchaturvedi/Memory-Game-JS">REPO LINK </a> : <a href="https://thedeepakchaturvedi.github.io/Memory-Game-JS/"> PAGE LINK </a> </li>
 <li>Day 11 : Harry Potter Quizzinga : <a href="https://thedeepakchaturvedi.github.io/Devsnest-Frontend/Day%2011/index.html">PAGE LINK</a></li>
-<li> Day 12 : To-Do List (using Local Storage) : <a href="https://thedeepakchaturvedi.github.io/Devsnest-Frontend/Day12_ToDoList/index.html">PAGE LINK</a></li>
+<li> Day 12 : To-Do List (using Local Storage) 📝: <a href="https://thedeepakchaturvedi.github.io/Devsnest-Frontend/Day12_ToDoList/index.html">PAGE LINK</a></li>
 <li> Day 13 : MEME's API + Discord Webhooks : <a href="https://thedeepakchaturvedi.github.io/Devsnest-Frontend/Day13_APIs/index.html">PAGE LINK</a></li>
 <li> Day 14 : study evenListeners</li>
 </ul>
@@ -48,7 +48,8 @@
 <li> Day 23 : Study Custom Hooks and React Routing</li>
 <li>Day 24 : Profile Dashboard (States[Loading and Login] and React Router) : <a href="https://thedeepakchaturvedi-tha24.netlify.app/">PAGE LINK</a></li>
 <li>Day 25 : Bootstrap & Tailwind css 👋 </li>
-  <li>Day 26 : Redux ( Form : Username && Password ) : <a href="https://tha26-redux.web.app/">PAGE LINK</a></li>
+<li>Day 26 : Redux ( Form : Username && Password ) : <a href="https://tha26-redux.web.app/">PAGE LINK</a></li>
+<li>Day 27 : TODO App Redux 📝: <a href="https://thedeepakchaturvedi-tha27-todo-redux.netlify.app/">PAGE LINK</a></li>
 </ul>
 
 ---
