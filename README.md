@@ -7,7 +7,7 @@
 ---
 
 <ul>
-<li>Day 1 & 2 : Applying html + css</li>
+<li>Day 1 & 2 : Applying HTML + CSS</li>
 <li>Day 3 : Resume : <a href="https://thedeepakchaturvedi.github.io/Devsnest-Frontend/Day%203%20again/tha.html">PAGE LINK</a></li>
 <li>Day 4 : Clock using CSS Animation : <a href="https://thedeepakchaturvedi.github.io/Devsnest-Frontend/Day%204/tha4.html">PAGE LINK</a></li>
 <li>Day 5 : Basic Calculator : <a href="https://thedeepakchaturvedi.github.io/Devsnest-Frontend/Day5%20[mahasabha]%20calc/tha.html">PAGE LINK</a></li>
