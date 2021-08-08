@@ -44,7 +44,7 @@
 <li> Day 19 : Button Counter (useState) : <a href="https://thedeepakchaturvedi-tha19-usestate.netlify.app/">PAGE LINK</a></li>
 <li> Day 20 : Food Card App (delete function) : <a href="https://thedeepakchaturvedi-tha20.netlify.app/">PAGE LINK</a></li>
 <li> Day 21 : Food Card App (add + delete + edit function) : <a href="https://thedeepakchaturvedi-tha21.netlify.app/">PAGE LINK</a></li>
-<li> Day 22 :Meme Generator App : <a href="https://github.com/thedeepakchaturvedi/Meme-Generator-App">REPO LINK</a> : <a href="https://thedeepakchaturvedi-meme-creator.netlify.app/">PAGE LINK</a></li>
+<li> Day 22 : Meme Generator App : <a href="https://github.com/thedeepakchaturvedi/Meme-Generator-App">REPO LINK</a> : <a href="https://thedeepakchaturvedi-meme-creator.netlify.app/">PAGE LINK</a></li>
 <li> Day 23 : Study Custom Hooks and React Routing</li>
 <li>Day 24 : Profile Dashboard (States[Loading and Login] and React Router) : <a href="https://thedeepakchaturvedi-tha24.netlify.app/">PAGE LINK</a></li>
 <li>Day 25 : Bootstrap & Tailwind css 👋 </li>
@@ -53,11 +53,20 @@
  <li>Day 28 : Weather Web App ⛅ : <a href="https://github.com/thedeepakchaturvedi/Weather-API-WebApp">REPO LINK</a> : <a href="https://thedeepakchaturvedi-web-api.netlify.app/">PAGE LINK</a></li>
   <li>Day 29 : Weather Web App with Redux + Dark Mode 🌦 💻: <a href="https://github.com/thedeepakchaturvedi/WeatherAPI-Redux">REPO LINK</a> : <a href="https://thedeepakchaturvedi.github.io/WeatherAPI-Redux/">PAGE LINK</a>
   <li>Day 30 && 31 : E-Commerce Website using TypeScript (Not Completed -- will complete after Day 34)</li>
-  <li>Day 32 : Basic Use of TypeScript with React</li>
 </ul>
 
 ---
 
+## TypeScript
+
+---
+
+<ul>
+   <li>Day 32 : Basic Use of TypeScript with React</li>
+ </ul>
+ 
+---
+ 
 ## EXTRAs
 
 ---
