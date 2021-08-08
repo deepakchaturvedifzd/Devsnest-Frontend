@@ -44,7 +44,7 @@
 <li> Day 19 : Button Counter (useState) : <a href="https://thedeepakchaturvedi-tha19-usestate.netlify.app/">PAGE LINK</a></li>
 <li> Day 20 : Food Card App (delete function) : <a href="https://thedeepakchaturvedi-tha20.netlify.app/">PAGE LINK</a></li>
 <li> Day 21 : Food Card App (add + delete + edit function) : <a href="https://thedeepakchaturvedi-tha21.netlify.app/">PAGE LINK</a></li>
-<li> Day 22 :Meme Generator App : <a href="https://github.com/thedeepakchaturvedi/Meme-Generator-App">REPO LINK</a> : <a href="https://thedeepakchaturvedi-meme-creator.netlify.app/">PAGE LINK</a></li>
+<li> Day 22 : Meme Generator App : <a href="https://github.com/thedeepakchaturvedi/Meme-Generator-App">REPO LINK</a> : <a href="https://thedeepakchaturvedi-meme-creator.netlify.app/">PAGE LINK</a></li>
 <li> Day 23 : Study Custom Hooks and React Routing</li>
 <li>Day 24 : Profile Dashboard (States[Loading and Login] and React Router) : <a href="https://thedeepakchaturvedi-tha24.netlify.app/">PAGE LINK</a></li>
 <li>Day 25 : Bootstrap & Tailwind css 👋 </li>
