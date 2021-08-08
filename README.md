@@ -63,6 +63,7 @@
 
 <ul>
    <li>Day 32 : Basic Use of TypeScript with React</li>
+   <li>Day 33 : Todo App 📝 using TypeScript + Hooks : <a href="https://thedeepakchaturvedi-tha-33.netlify.app/">PAGE LINK</a></li>
  </ul>
  
 ---
