@@ -4,7 +4,7 @@
      <pre><samp><&nbsp; DEVSNEST--FRONTEND &nbsp;></samp></pre>
    </h2>
 
-<center>
+<p align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-</center>
+</p>
 
 ---
 
