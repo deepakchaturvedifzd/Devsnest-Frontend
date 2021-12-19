@@ -1,7 +1,7 @@
 <p align="center">
 
    <h2 align="center">
-     <pre><samp><&nbsp; DEVSNEST--FRONTEND &nbsp;></samp></pre>
+     <pre><samp><&nbsp; WEB -- DEV -- RONTEND &nbsp;></samp></pre>
    </h2>
 
 <p align="center">
